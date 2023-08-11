@@ -5,7 +5,7 @@ const satData = [
      type: "Communication",
      launchDate: "2007-11-17",
      orbitType: "Low",
-     operational: false
+     operational: true
    },
    {
      id: 2,
